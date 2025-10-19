@@ -1,40 +1,51 @@
 <h1 align="center">Hi 👋, I'm Krishna</h1>
-<p align="center">B.Tech Student · Building Web & Mobile Apps · Open to Internships</p>
+<p align="center">B.Tech student · Building web & mobile apps · Open to internships</p>
 
 <p align="center">
   <a href="https://github.com/Krishna31m"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Krishna31m?label=Follow&style=social"></a>
-  <a href="https://github.com/Krishna31m/CypherStudio"><img alt="repo" src="https://img.shields.io/badge/Project-CipherStudio-blue"></a>
   <a href="mailto:krishnajms038@gmail.com"><img alt="email" src="https://img.shields.io/badge/Email-krishnajms038%40gmail.com-green"></a>
 </p>
 
-## About Me
-- 🎓 B.Tech student at Lovely Professional University  
-- 💻 Passionate about building full-stack web & Android applications  
-- 🔭 Currently working on projects like **CipherStudio**, **EventHub**, and **Gana Bajao**  
-- 🌱 Learning advanced MERN stack, Kotlin Android, and AI/ML applications  
+## About
+- B.Tech student at Lovely Professional University.  
+- Building **CipherStudio**, a browser-based React IDE.  
+- Open to internships in frontend and full-stack development.  
+
+## Skills & Tech
+- **Languages:** Java, C, C++, JavaScript, Python, Kotlin.  
+- **Frontend:** React, Tailwind CSS, HTML, CSS.  
+- **Backend / DB:** Node.js, Express.js, MongoDB, Firebase (learning).  
 
 ## Featured Projects
-- **[CipherStudio](https://github.com/Krishna31m/CypherStudio)** — Browser-based React IDE · Live preview · Firebase persistence  
-- **[EventHub](https://github.com/Krishna31m/EventAPP)** — Local event discovery app · QR/UPI payment flows · Community feature  
-- **[Gana Bajao](https://github.com/Krishna31m/GanaBajao)** — Music streaming Android app · Kotlin-based  
-- **[Skillion Hackathon](https://github.com/Krishna31m/Skillion_Hackathon)** — Hackathon project for web solutions  
-- **[FullStack-Web-Dev](https://github.com/Krishna31m/FullStack-Web-Dev)** — Full-stack web projects with Node.js & MongoDB  
-- **[Python-FullStack](https://github.com/Krishna31m/Python-FullStack)** — Python-based full-stack applications  
+- **CipherStudio** — Browser React IDE. Live preview and persistence (in development).  
+- **FullStack-Web-Dev** — Course projects and practice material for full-stack development.  
+- **Python-FullStack** — End-to-end Python full-stack project (frontend, backend, DB).  
+- **LMS** — Learning Management System (Python).  
+- **EventAPP** — Android event app (Kotlin) with booking/payment features.  
+- **SudokuSolver** — DSA project from GeeksforGeeks course.  
+- **Resume** — Personal resume site built with HTML/CSS/JS.  
 
-## Skills
-- **Languages:** Java, C, C++, JavaScript, Python, Kotlin  
-- **Frontend:** React, Tailwind CSS, Android (Kotlin)  
-- **Backend:** Node.js, Express.js, MongoDB, Firebase  
-- **Other Tools:** Git, GitHub, Vercel, Android Studio  
+## How to explore
+1. Open my repos list on GitHub and click any project to view source and demos.  
+2. Projects with web UI usually include instructions in their `README.md`.  
+3. For Android projects check the `app` or `src` folders for build instructions.
 
 ## Contact
-- 📧 Email: krishnajms038@gmail.com  
-- 📸 Instagram: [@me_ikrishna](https://instagram.com/me_ikrishna)  
-- ▶️ YouTube: [@tourwithkrishna](https://www.youtube.com)  
+- Email: krishnajms038@gmail.com.  
+- Instagram: [@me_ikrishna](https://instagram.com/me_ikrishna).  
+- YouTube: [@tourwithkrishna](https://www.youtube.com).  
 
 ---
 
-<!-- GitHub Readme Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishna31m&show_icons=true&theme=default" alt="GitHub stats">
-</p>
+## Quick actions to improve this profile
+1. Add short demos or GIFs to the top of each repo README.  
+2. Add live demos for web projects via GitHub Pages or Vercel.  
+3. Add one-line tech tags to each repo README.  
+4. Add project badges (build, demo, license).  
+5. Keep the Profile README concise and pin the 4 most important repos.  
+
+---
+
+## Notes
+This README was generated from the public information on your GitHub profile and pinned repositories.  
+You can later expand each project entry with one-paragraph summaries and direct repo links, and add banner art or GIF placeholders for demos.
