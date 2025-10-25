@@ -12,7 +12,7 @@
 - Open to internships in frontend and full-stack development.  
 
 ## Skills & Tech
-- **Languages:** Java, C, C++, JavaScript, Python, Kotlin.  
+- **Languages:** Java, C++, JavaScript, Python, Kotlin.  
 - **Frontend:** React, Tailwind CSS, HTML, CSS.  
 - **Backend / DB:** Node.js, Express.js, MongoDB, Firebase (learning).  
 
